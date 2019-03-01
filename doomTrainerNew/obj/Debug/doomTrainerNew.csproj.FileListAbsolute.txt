@@ -1,0 +1,9 @@
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\bin\Debug\doomTrainerNew.exe.config
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\bin\Debug\doomTrainerNew.exe
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\bin\Debug\doomTrainerNew.pdb
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\obj\Debug\doomTrainerNew.csprojResolveAssemblyReference.cache
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\obj\Debug\doomTrainerNew.Form1.resources
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\obj\Debug\doomTrainerNew.Properties.Resources.resources
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\obj\Debug\doomTrainerNew.csproj.GenerateResource.Cache
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\obj\Debug\doomTrainerNew.exe
+c:\users\trimlink\documents\visual studio 2015\Projects\doomTrainerNew\doomTrainerNew\obj\Debug\doomTrainerNew.pdb
